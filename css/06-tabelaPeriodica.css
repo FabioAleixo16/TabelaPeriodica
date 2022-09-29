@@ -1,0 +1,48 @@
+.coluna{
+    width:60px;
+    height:60px;
+    text-align:center;
+    font-family:Arial;
+    font-size:18pt;
+}
+
+.metaltransicao{
+    background-color:yellow;
+}
+
+.metaloid{
+    background-color:darkgreen;
+}
+
+.naometal{
+    background-color:pink;
+}
+
+.gasnobre{
+    background-color:mediumslateblue;
+}
+
+.semimetal{
+    background-color:blue;
+    color:white;
+}
+
+.metalalcalinoterroso{
+    background-color:orange;
+}
+
+.outrometal{
+    background-color:blueviolet;
+}
+
+.halogeneo{
+    background-color:lightseagreen;
+}
+
+.lantanideo{
+    background-color:lemonchiffon;
+}
+
+.actinideo{
+    background-color:lightgreen;
+}
